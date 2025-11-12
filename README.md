@@ -8,7 +8,7 @@ This repository contains code for analysing global shade distribution inequality
 - Using SHAP for model interpretation and visual explanation.
 - Visualising results with Matplotlib and Seaborn.
 
-## Dependencies
+## Setup
 
-Install all required packages before running this code:
+The code was executed on Google Colab. Install all required packages before running this code:
 pip install pandas numpy matplotlib seaborn scikit-learn shap pygam scipy xgboost==3.0.5
