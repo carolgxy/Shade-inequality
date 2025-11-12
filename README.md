@@ -1,5 +1,6 @@
 # Global Shade Inequality Analysis
 
+## Introduction
 This repository contains code for analysing global shade distribution inequality and exploring its relationships with socioeconomic indicators. The workflow includes:
 
 - Calculating the Gini coefficient for shade inequality.
